@@ -1,0 +1,59 @@
+C:\Users\livan\Desktop\5ta Unidad\Final\bin\Debug\Final.exe.config
+C:\Users\livan\Desktop\5ta Unidad\Final\bin\Debug\Final.exe
+C:\Users\livan\Desktop\5ta Unidad\Final\bin\Debug\Final.pdb
+C:\Users\livan\Desktop\5ta Unidad\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\livan\Desktop\5ta Unidad\Final\obj\Debug\Final.frmExplorador.resources
+C:\Users\livan\Desktop\5ta Unidad\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\livan\Desktop\5ta Unidad\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\livan\Desktop\5ta Unidad\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\livan\Desktop\5ta Unidad\Final\obj\Debug\Final.exe
+C:\Users\livan\Desktop\5ta Unidad\Final\obj\Debug\Final.pdb
+C:\Users\giova\Music\5ta Unidad\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\giova\Music\5ta Unidad\Final\obj\Debug\Final.exe
+C:\Users\giova\Music\5ta Unidad\Final\obj\Debug\Final.pdb
+C:\Users\giova\Music\5ta Unidad\Final\bin\Debug\Final.exe.config
+C:\Users\giova\Music\5ta Unidad\Final\bin\Debug\Final.exe
+C:\Users\giova\Music\5ta Unidad\Final\bin\Debug\Final.pdb
+C:\Users\giova\Music\5ta Unidad\Final\obj\Debug\Final.frmExplorador.resources
+C:\Users\giova\Music\5ta Unidad\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\giova\Music\5ta Unidad\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\bin\Debug\Final.exe.config
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\bin\Debug\Final.exe
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\bin\Debug\Final.pdb
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\obj\Debug\Final.frmExplorador.resources
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\obj\Debug\Final.exe
+C:\Users\livan\Desktop\5ta Unidadjojo2\5ta Unidad\Final\obj\Debug\Final.pdb
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\bin\Debug\Final.exe.config
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\bin\Debug\Final.exe
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\bin\Debug\Final.pdb
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.frmExplorador.resources
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.exe
+C:\Users\livan\Desktop\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.pdb
+F:\ProyectoFinalCS\5ta Unidad\Final\bin\Debug\Final.exe.config
+F:\ProyectoFinalCS\5ta Unidad\Final\bin\Debug\Final.exe
+F:\ProyectoFinalCS\5ta Unidad\Final\bin\Debug\Final.pdb
+F:\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.csprojAssemblyReference.cache
+F:\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.frmExplorador.resources
+F:\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.Properties.Resources.resources
+F:\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.csproj.GenerateResource.cache
+F:\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+F:\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.exe
+F:\ProyectoFinalCS\5ta Unidad\Final\obj\Debug\Final.pdb
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\bin\Debug\Final.exe.config
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\bin\Debug\Final.exe
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\bin\Debug\Final.pdb
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\obj\Debug\Final.csprojAssemblyReference.cache
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\obj\Debug\Final.frmExplorador.resources
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\obj\Debug\Final.exe
+C:\Users\livan\Downloads\5ta Unidadsin600\5ta Unidad\Final\obj\Debug\Final.pdb
